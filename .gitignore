@@ -1,5 +1,4 @@
 node_modules
-/dist
 .env
 /requests
 package-lock.json
